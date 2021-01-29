@@ -1,12 +1,12 @@
 ## project_Secure
-> Description: anamoly detection using machine learning
+> Description: Anomaly Detection Using Deep Models
 
 > What is an anomaly? </br>
 > True definition of anomaly is "different from usual/normal". Subjective to this project, it also means something similar. An accident, a robbery, a carjacking, a street fight and many such illegal activities are considered an anomaly according to this project.
 
 Brainstorming
 ---
-Main aim of this project is to detect above mentioned anomalies. </br>
+Main aim of this project is to detect and describe above mentioned anomalies. </br>
 First manifestation of this project is a deep learning image detection model with classes as the anomalies. </br>
 Later manifestations of this project is a deep learning sequence model.
 
